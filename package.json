@@ -2,5 +2,26 @@
   "dependencies": {
     "openzeppelin-solidity": "2.3",
     "truffle-hdwallet-provider": "^1.0.17"
-  }
+  },
+  "name": "dominicarulcollins_project5_decentralized-star-notary-service-code",
+  "description": "|Name|Symbol| --|--| Star Dom|SDM",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domaj8366/udacity-DecentralizedStarNotary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domaj8366/udacity-DecentralizedStarNotary/issues"
+  },
+  "homepage": "https://github.com/domaj8366/udacity-DecentralizedStarNotary#readme"
 }
